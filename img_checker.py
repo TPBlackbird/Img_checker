@@ -54,3 +54,4 @@ print("create double: ", result)
 
 hist = Hgraf(list)
 
+print("Test z gita")
